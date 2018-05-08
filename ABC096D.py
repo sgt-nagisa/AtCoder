@@ -1,3 +1,4 @@
+# ABC 096 D
 import math
 
 N = int(input())
