@@ -1,3 +1,4 @@
+# AGC 022 A
 S = input()
 T = "abcdefghijklmnopqrstuvwxyz"
 A = [str(x) for x in T]
