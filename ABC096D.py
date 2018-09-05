@@ -1,4 +1,5 @@
 # ABC 096 D
+# Math
 import math
 
 N = int(input())
