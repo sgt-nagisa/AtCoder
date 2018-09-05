@@ -12,3 +12,5 @@ ABC 097 D (C++)
 ABC 099 C (C++)
 ## その他
 ABC 096 D (Python)数学
+ABC 099 D (Python)
+ABC 100 D (Python)
