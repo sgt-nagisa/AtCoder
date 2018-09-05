@@ -1,4 +1,5 @@
 # ABC 100 D
+# Other
 N, M = map(int, input().split())
 A = [list(map(int, input().split())) for k in range(N)]
 

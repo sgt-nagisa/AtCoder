@@ -1,4 +1,5 @@
 # ABC 099 D
+# Other
 N, C = map(int, input().split())
 D = [list(map(int, input().split())) for k in range(C)]
 G = [list(map(int, input().split())) for k in range(N)]
