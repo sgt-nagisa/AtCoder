@@ -1,6 +1,6 @@
 # AtCoder
 ## AtCoderの解答置き場です☆
-
+ 現在AtCoderの300~500点問題を中心に勉強しています。
 # 解法まとめ
 ## ワーシャルフロイド
 ABC 079 D (python)
@@ -10,3 +10,5 @@ ABC 087 D (C++)
 ABC 097 D (C++)
 ## DP
 ABC 099 C (C++)
+## その他
+ABC 096 D (Python)数学
