@@ -5,9 +5,9 @@ using namespace std;
 #define REP(i,n) for(int i = 0; i < (int)(n); ++i)
 typedef long long ll;
 
-const ll INF = 1e+18;
 // DIJKSTRA
 // cf. arihon p.96
+const ll INF = 1e+18;
 struct edge {int to, cost;};
 vector<vector<edge>> graph(100010);
 vector<ll> dist(100010, INF);
