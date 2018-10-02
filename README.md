@@ -6,6 +6,9 @@
 ABC 079 D (python)
 ## 深さ優先探索(DFS)
 ABC 087 D (C++)
+KUPC 2018 D　(Python)
+## ダイクストラ法
+ABC 070 D (C++)
 ## Union Find
 ABC 097 D (C++)
 ## DP
