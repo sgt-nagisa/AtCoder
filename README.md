@@ -15,7 +15,7 @@ ABC 097 D (C++)
 ## DP
 ABC 099 C (C++)
 ## その他
-ABC 075 D (C++) Brute Force
+ABC 075 D (C++) Brute Force  
 ABC 096 D (Python)数学  
 ABC 099 D (Python)  
 ABC 100 D (Python)  
