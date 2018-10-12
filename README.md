@@ -15,8 +15,12 @@ ABC 070 D (C++)
 ABC 097 D (C++)
 ## DP
 ABC 099 C (C++)
+## bit全探索
+ABC 104 C (Python)
 ## その他
 ABC 075 D (C++) Brute Force  
 ABC 096 D (Python)数学  
 ABC 099 D (Python)  
 ABC 100 D (Python)  
+ABC 110 D (Python)数学
+ABC 112 D (Python)数学
